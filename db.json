@@ -57,6 +57,14 @@
         {
             "id": 13,
             "name1": "TK Landmine Press 5x8"
+        },
+        {
+            "id": 9,
+            "name1": "Push Ups 5x8"
+        },
+        {
+            "id": 13,
+            "name1": "Chin Ups 5x8"
         }
     ],
 
@@ -83,11 +91,19 @@
         },
         {
             "id": 9,
-            "name1": "Slider Leg Curl 5x8"
+            "name1": "Single Leg Box Squats 5x8"
         },
         {
             "id": 13,
             "name1": "Wall Sits 5x30 Seconds"
+        },
+        {
+            "id": 9,
+            "name1": "Resistance Band Good Mornings 5x8"
+        },
+        {
+            "id": 13,
+            "name1": "Dumbbell Hamstring Curls 5x8"
         }
     ]
 }
