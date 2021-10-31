@@ -58,5 +58,36 @@
             "id": 13,
             "name1": "TK Landmine Press"
         }
+    ],
+
+    "lower": [
+        {
+            "id": 10,
+            "name1": "Trap Bar Deadlift 5x8"
+        },
+        {
+            "id": 8,
+            "name1": "Lateral Step Ups 5x8"
+        },
+        {
+            "id": 12,
+            "name1": "Feet Elevated Hip Lifts 5x8"
+        },
+        {
+            "id": 14,
+            "name1": "Goblet Pause Squats 5x8"
+        },
+        {
+            "id": 11,
+            "name1": "Slider Leg Curl 5x8"
+        },
+        {
+            "id": 9,
+            "name1": "Slider Leg Curl 5x8"
+        },
+        {
+            "id": 13,
+            "name1": "Wall Sits 5x30 Seconds"
+        }
     ]
 }
