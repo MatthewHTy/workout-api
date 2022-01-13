@@ -1,22 +1,12 @@
 {
     "results": [
         {
-            "userId": 1,
             "id": 10,
-            "firstName": "Abs",
-            "lastName": "Ty",
-            "email": "matthewty@gmail.com",
-            "phoneNumber": 8011234567,
-            "age": 2
+            "name": "Abs"
         },
         {
-            "userId": 1,
-            "id": 10,
-            "firstName": "Abs",
-            "lastName": "Ty",
-            "email": "matthewty@gmail.com",
-            "phoneNumber": 8011234567,
-            "age": 2
+            "id": 8,
+            "name": "Arms"
         },
         {
             "id": 12,
