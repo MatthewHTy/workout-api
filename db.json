@@ -1,147 +1,67 @@
 {
     "results": [
         {
-            "id": 10,
-            "name": "Abs"
+            "userId": 1,
+            "id": 1,
+            "firstName": "Abs",
+            "lastName": "Ty",
+            "email": "matthewty@gmail.com",
+            "phoneNumber": 8011234567,
+            "age": 2
         },
         {
-            "id": 8,
-            "name": "Arms"
+            "userId": 2,
+            "id": 2,
+            "firstName": "Abs",
+            "lastName": "Ty",
+            "email": "matthewty@gmail.com",
+            "phoneNumber": 8011234567,
+            "age": 2
         },
         {
-            "id": 12,
-            "name": "Back"
+            "userId": 3,
+            "id": 3,
+            "firstName": "Abs",
+            "lastName": "Ty",
+            "email": "matthewty@gmail.com",
+            "phoneNumber": 8011234567,
+            "age": 2
         },
         {
-            "id": 14,
-            "name": "Calves"
+            "userId": 4,
+            "id": 4,
+            "firstName": "Abs",
+            "lastName": "Ty",
+            "email": "matthewty@gmail.com",
+            "phoneNumber": 8011234567,
+            "age": 2
         },
         {
-            "id": 11,
-            "name": "Chest"
+            "userId": 5,
+            "id": 5,
+            "firstName": "Abs",
+            "lastName": "Ty",
+            "email": "matthewty@gmail.com",
+            "phoneNumber": 8011234567,
+            "age": 2
         },
         {
-            "id": 9,
-            "name": "Legs"
+            "userId": 6,
+            "id": 6,
+            "firstName": "Abs",
+            "lastName": "Ty",
+            "email": "matthewty@gmail.com",
+            "phoneNumber": 8011234567,
+            "age": 2
         },
         {
-            "id": 13,
-            "name": "Shoulders"
-        }
-    ],
-    "upper": [
-        {
-            "id": 10,
-            "name1": "Dumbbell Bench 5x8"
-        },
-        {
-            "id": 8,
-            "name1": "3 Point Row 5x8"
-        },
-        {
-            "id": 12,
-            "name1": "1/2 Kneeling Overhead Press 5x8"
-        },
-        {
-            "id": 14,
-            "name1": "TRX Tricep Extensions 5x8"
-        },
-        {
-            "id": 11,
-            "name1": "Standing Eccentric Curls 5x8"
-        },
-        {
-            "id": 9,
-            "name1": "Lateral Raises 5x8"
-        },
-        {
-            "id": 13,
-            "name1": "TK Landmine Press 5x8"
-        },
-        {
-            "id": 9,
-            "name1": "Push Ups 5x8"
-        },
-        {
-            "id": 13,
-            "name1": "Chin Ups 5x8"
-        }
-    ],
-
-    "lower": [
-        {
-            "id": 10,
-            "name1": "Trap Bar Deadlift 5x8"
-        },
-        {
-            "id": 8,
-            "name1": "Lateral Step Ups 5x8"
-        },
-        {
-            "id": 12,
-            "name1": "Feet Elevated Hip Lifts 5x8"
-        },
-        {
-            "id": 14,
-            "name1": "Goblet Pause Squats 5x8"
-        },
-        {
-            "id": 11,
-            "name1": "Slider Leg Curl 5x8"
-        },
-        {
-            "id": 9,
-            "name1": "Single Leg Box Squats 5x8"
-        },
-        {
-            "id": 13,
-            "name1": "Wall Sits 5x30 Seconds"
-        },
-        {
-            "id": 9,
-            "name1": "Resistance Band Good Mornings 5x8"
-        },
-        {
-            "id": 13,
-            "name1": "Dumbbell Hamstring Curls 5x8"
-        }
-    ],
-    "core": [
-        {
-            "id": 10,
-            "name1": "Trap Bar Deadlift 5x8"
-        },
-        {
-            "id": 8,
-            "name1": "Lateral Step Ups 5x8"
-        },
-        {
-            "id": 12,
-            "name1": "Feet Elevated Hip Lifts 5x8"
-        },
-        {
-            "id": 14,
-            "name1": "Goblet Pause Squats 5x8"
-        },
-        {
-            "id": 11,
-            "name1": "Slider Leg Curl 5x8"
-        },
-        {
-            "id": 9,
-            "name1": "Single Leg Box Squats 5x8"
-        },
-        {
-            "id": 13,
-            "name1": "Wall Sits 5x30 Seconds"
-        },
-        {
-            "id": 9,
-            "name1": "Resistance Band Good Mornings 5x8"
-        },
-        {
-            "id": 13,
-            "name1": "Dumbbell Hamstring Curls 5x8"
+            "userId": 7,
+            "id": 7,
+            "firstName": "Abs",
+            "lastName": "Ty",
+            "email": "matthewty@gmail.com",
+            "phoneNumber": 8011234567,
+            "age": 2
         }
     ]
 }
